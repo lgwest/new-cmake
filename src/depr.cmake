@@ -1,2 +1,2 @@
-message(CMAKE_WARN_DEPRECATED " this module shall not be used")
+message(DEPRECATION " this module shall not be used")
 
